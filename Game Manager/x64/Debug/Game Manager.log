@@ -1,0 +1,437 @@
+﻿  Game Manager.cpp
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(209,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(209,41): error C2143: syntax error: missing ',' before '&'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(214,9): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(215,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(216,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(217,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(218,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(219,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(220,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(231,41): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(231,72): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(235,9): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(236,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(237,14): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(241,31): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(245,31): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(249,22): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(250,22): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(251,22): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(252,22): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(253,22): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,6): error C2182: 'applyRookieContract': this use of 'void' is not valid
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,26): error C2065: 'Player': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,34): error C2065: 'p': undeclared identifier
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,37): error C2062: type 'int' unexpected
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(343,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(344,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(353,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(356,5): error C2084: function 'int weighted(int,int,int)' already has a body
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(264,5):
+      see previous definition of 'weighted'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(359,5): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(360,5): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(363,6): error C2365: 'applyRookieContract': redefinition; previous definition was 'variable'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(271,6):
+      see declaration of 'applyRookieContract'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(411,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(412,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(413,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(414,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(414,47): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(417,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(417,24): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(418,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(419,5): error C2027: use of undefined type 'Player'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(331,8):
+      see declaration of 'Player'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(424,13): error C2084: function 'std::string generateRandomName(void)' already has a body
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(332,13):
+      see previous definition of 'generateRandomName'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(435,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(436,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(439,13): error C2084: function 'std::string generateRandomPosition(void)' already has a body
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(347,13):
+      see previous definition of 'generateRandomPosition'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(445,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,26): error C2440: 'initializing': cannot convert from 'std::string (__cdecl *)(void)' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,26):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(818,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,26):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,46):
+                  There is no context in which this conversion is possible
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1390,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,26):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,46):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1207,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(848,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(842,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(825,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(812,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(607,26):
+          while trying to match the argument list '(overloaded-function)'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,25): error C2440: 'initializing': cannot convert from 'std::string (__cdecl *)(void)' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,25):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(818,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,25):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,49):
+                  There is no context in which this conversion is possible
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1390,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,25):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,49):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1207,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(848,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(842,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(825,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(812,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(608,25):
+          while trying to match the argument list '(overloaded-function)'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(631,9): error C3861: 'generateAttributesForPosition': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(634,9): error C2064: term does not evaluate to a function taking 3 arguments
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(679,37): error C2568: '=': unable to resolve function overload
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(679,37):
+      could be 'int weighted(int,int,int)'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(1544,35): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(1545,35): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8351,21): error C2084: function 'std::vector<Player,std::allocator<Player>> generateDraftClass(void)' already has a body
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(598,21):
+      see previous definition of 'generateDraftClass'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,26): error C2440: 'initializing': cannot convert from 'std::string (__cdecl *)(void)' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,26):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(818,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,26):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,46):
+                  There is no context in which this conversion is possible
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1390,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,26):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,46):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1207,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(848,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(842,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(825,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(812,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8361,26):
+          while trying to match the argument list '(overloaded-function)'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,25): error C2440: 'initializing': cannot convert from 'std::string (__cdecl *)(void)' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,25):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(818,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,25):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,49):
+                  There is no context in which this conversion is possible
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1390,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,25):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::string (__cdecl *)(void)' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,49):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1207,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(848,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(842,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(825,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(812,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8362,25):
+          while trying to match the argument list '(overloaded-function)'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8400,9): error C2064: term does not evaluate to a function taking 3 arguments
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8420,5): error C3861: 'loadCommandersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8424,5): error C3861: 'loadGiantsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8428,5): error C3861: 'loadEaglesRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8433,5): error C3861: 'loadPackersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8437,5): error C3861: 'loadLionsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8441,5): error C3861: 'loadBearsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8445,5): error C3861: 'loadVikingsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8450,5): error C3861: 'loadBuccaneersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8454,5): error C3861: 'loadSaintsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8458,5): error C3861: 'loadFalconsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8462,5): error C3861: 'loadPanthersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8467,5): error C3861: 'loadRamsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8471,5): error C3861: 'load49ersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8475,5): error C3861: 'loadSeahawksRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8479,5): error C3861: 'loadCardinalsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8484,5): error C3861: 'loadBillsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8488,5): error C3861: 'loadDolphinsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8492,5): error C3861: 'loadPatriotsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8496,5): error C3861: 'loadJetsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8501,5): error C3861: 'loadRavensRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8505,5): error C3861: 'loadBengalsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8509,5): error C3861: 'loadSteelersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8513,5): error C3861: 'loadBrownsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8518,5): error C3861: 'loadJaguarsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8522,5): error C3861: 'loadColtsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8526,5): error C3861: 'loadTexansRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8530,5): error C3861: 'loadTitansRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8535,5): error C3861: 'loadChiefsRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8539,5): error C3861: 'loadChargersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8543,5): error C3861: 'loadBroncosRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8547,5): error C3861: 'loadRaidersRoster': identifier not found
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8558,5): error C2059: syntax error: 'while'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8558,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8558,21): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8586,15): error C2143: syntax error: missing ';' before '<<'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8586,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8586,10): error C2371: 'std::cout': redefinition; different basic types
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\iostream(40,75):
+      see declaration of 'std::cout'
+  
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8586,15): error C2059: syntax error: '<<'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8587,5): error C2059: syntax error: 'return'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8588,1): error C2059: syntax error: '}'
+C:\Users\thean\source\repos\Game Manager\Game Manager\Game Manager.cpp(8588,1): error C2143: syntax error: missing ';' before '}'
